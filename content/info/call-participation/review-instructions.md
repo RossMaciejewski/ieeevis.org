@@ -216,4 +216,4 @@ As with all supplemental materials, each individual reviewer decides how to trea
 ## Assigning Scores, Requesting Revisions
 Remember that the numeric scores are shorthand for a recommendation. Please check the descriptions for the numbers on the reviewing form and carefully justify your recommendation in your review. Short reviews do not help the paper chairs in making their decisions.
 
-Note that submitting a neutral/borderline rating of 3 is acceptable, but not encouraged. If you do assign a 3, please specify in the revisions what must be completed within the (short) conference review cycle for the paper to become an ‘Accept'.
+Note that submitting a neutral/borderline rating of 3 is acceptable, but not encouraged. If you do assign a 3, please specify in the revisions what must be completed within the (short) conference review cycle for the paper to become an ‘Accept'. 
